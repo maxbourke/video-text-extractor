@@ -1,0 +1,21 @@
+# Test outputs and frame exports
+TEST OUTPUT/
+Test Data/
+output/
+frames/
+*text_detected_frames*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+
+# Claude Code internals
+.claude/
+
+# macOS
+.DS_Store
